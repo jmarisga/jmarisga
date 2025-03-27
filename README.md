@@ -1,5 +1,5 @@
 
-# Hi🤝, I'm Erxi!
+# Hi 🤝, I'm Erxi!
 
 and I guess I'm still new here<br><br>🌱 I’m currently learning MySQL and Java<br><br>🤔 I’m looking for help with basically, ✨everything programming✨<br><br>💬 Ask me about coffee and we're besties after that 🙆🏻‍♀️<br><br>⚡ Fun fact: I don't know why I'm here  ┐(￣∀￣)┌
 
