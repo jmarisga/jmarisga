@@ -3,7 +3,6 @@
 
 <br>💬 Ask me about coffee and we're besties after that 🙆🏻‍♀️<br>
 
-
 ## 📫 Reach me:
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jersey.marisga@gmail.com) 
 
@@ -12,17 +11,4 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jmarisga&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=jmarisga&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarisga&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jmarisga&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jmarisga&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
